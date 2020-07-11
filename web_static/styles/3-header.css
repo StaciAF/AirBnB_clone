@@ -1,0 +1,9 @@
+/* this adds style to header of HTML page */
+/* needs logo align on left and center vertically(20px space at left) */
+
+header {
+    background-color: white;
+    height: 70px;
+    width: 100%;
+    border-bottom: 1px solid #CCCCCC;
+}
