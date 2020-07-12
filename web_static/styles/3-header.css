@@ -2,7 +2,7 @@
 /* needs logo align on left and center vertically(20px space at left) */
 
 header {
-    background-color: white;
+    background: white url(../images/logo.png) no-repeat fixed left;
     height: 70px;
     width: 100%;
     border-bottom: 1px solid #CCCCCC;
