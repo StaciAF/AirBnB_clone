@@ -1,0 +1,35 @@
+/* this adds style to section Places */
+
+.places {
+    margin-left: 5px;
+    display: flex;
+}
+
+h1 {
+    font-size: 30px;
+    text-align: left;
+}
+
+article {
+    align-items: center;
+    border: 1px solid #FF5A5F;
+    border-radius: 4px;
+    height: 50px;
+    margin: 20px;
+    padding: 20px;
+    width: 390px;
+    
+}
+
+.place_list {
+    margin-top: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+h2 {
+    font-size: 30px;
+    margin-top: 0px;
+    text-align: center;
+}
